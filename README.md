@@ -1,6 +1,6 @@
 ## Doel van deze opdracht
 
-Een living styleguide is essentieel voor het begrijpen en overbrengen van de look and feel van een website. Het geeft voorbeelden en uitleg over hoe iets eruit moet zien en hoe de HTML en CSS moeten worden toegepast.
+Een Living style guide is essentieel voor het begrijpen en overbrengen van de look and feel van een website. Het geeft voorbeelden en uitleg over hoe iets eruit moet zien en hoe de HTML en CSS moeten worden toegepast.
 
 ## Werkwijze
  
