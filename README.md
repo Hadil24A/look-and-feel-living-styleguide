@@ -6,7 +6,7 @@ Een Living style guide is essentieel voor het begrijpen en overbrengen van de lo
  
 ### Analyseren 
 
-Eerst hebben ee interface inventory op Miro gemaakt.
+Eerst hebben een interface inventory op Miro gemaakt.
 
 ### Ontwerpen en Bouwen
 
