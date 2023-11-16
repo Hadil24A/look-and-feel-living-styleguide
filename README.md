@@ -1,22 +1,21 @@
 ## Doel van deze opdracht
 
-Een living styleguide is essentieel voor het begrijpen en overbrengen van de look and feel van een website. Het geeft voorbeelden en uitleg over hoe iets eruit moet zien en hoe markup (HTML) en vormgeving (CSS) moeten worden toegepast. Een living styleguide helpt bij het ontwerpen en bouwen van een website met consistente look and feel in de huisstijl van een opdrachtgever.
+Een living styleguide is essentieel voor het begrijpen en overbrengen van de look and feel van een website. Het geeft voorbeelden en uitleg over hoe iets eruit moet zien en hoe de HTML en CSS moeten worden toegepast.
 
 ## Werkwijze
+ 
+### Analyseren 
 
-ontwerpen - huisstijl 
+Eerst hebben ee interface inventory op Miro gemaakt.
 
-Analyseren - interface inventory- miro
+### Ontwerpen en Bouwen
 
-Ontwerpen en Bouwen
+Door gebruik te maken van de interface inventory hebben we een Living style guide gemaakt. Voor het ontwerp hebben we inspiratie genomen van de bestaande brand guide van Funda. Ook hebben we de huisstijl behouden.
 
-Living Styleguide
-interface inventory\
-huisstijl 
-Toon de code van het onderdeel, zodat een frontender het voorbeeld makkelijk kan gebruiken
 
-## URL 
-website - living styleguide
+
+###  Link Living style guide
+
 
 ## Licentie
 
